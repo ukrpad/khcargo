@@ -1,0 +1,39 @@
+.article>#truck {
+    background: #37474f url(../img/truck.png) no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 100px;
+    background-size: 110px;
+}
+
+.article>#building-materials {
+    background: #37474f url(../img/building-materials.png) no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 100px;
+    background-size: 110px;
+}
+
+.article>#stevedores {
+    background: #37474f url(../img/stevedores.png) no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 100px;
+    background-size: 110px;
+}
+
+.article>#trash {
+    background: #37474f url(../img/trash.png) no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 100px;
+    background-size: 110px;
+}
+
+.article>#enterprise {
+    background: #37474f url(../img/enterprise.png) no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 100px;
+    background-size: 110px;
+}
